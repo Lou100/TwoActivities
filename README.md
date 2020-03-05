@@ -8,7 +8,7 @@ Make sure you have Android Studio installed.
 
 # Introduction
 
-This Quicklauncher App allows the user to message between two activities/screens.
+This TwoActivities App allows the user to message between two activities/screens.
 
 # Getting Started
 
